@@ -14,7 +14,7 @@ def main(args =[]):
             print("Arquivo não encontrado!")
             
         finally:
-            print('Imprima essa mensagem de qualquer forma (testando o finally')
+            print('Imprima essa mensagem de qualquer forma (testando o finally)')
 
 if __name__ == '__main__':
     main()
